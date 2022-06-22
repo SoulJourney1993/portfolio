@@ -27,13 +27,11 @@
   }
   
   #about .info .info__btn--cta {
-    background-color: #3f8e00;
-    border: 1px solid #62ba1b;
+    background-color: #8e33aa;
     border-radius: 4px;
     padding: 21px 64px;
     color: #fff;
-    box-shadow: 0px 8px 30px rgba(63, 142, 0, 0.5);
-  }
+    }
   
   #about .about__img {
     border-radius: 100%;
